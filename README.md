@@ -1,6 +1,6 @@
 # RosChat Template
 
-## Introcution
+## Introduction
 
 This project is intended to provide new users of ROS a useful learning experience. A template for the main UI can be found in ``roschat_app/roschat_main.py``.
 
